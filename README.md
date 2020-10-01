@@ -1,5 +1,5 @@
-# RENT A GAME
-Projet front en React de l'application rent a game développée en interne Thales.
+# REACT CLI TYPESCRIPT SCSS
+React cli with Typescript configured, SCSS, example of Router and stricts lint rules.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
